@@ -1,2 +1,2 @@
 # LLD
-notes of LLD
+LLD Notes
